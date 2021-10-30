@@ -6,7 +6,7 @@ The workflow felt like it was somewhat manageable. I followed this for a bit but
 
 1. Regarding the work you did around setting intentions in Step 1 of the Pomodoro technique - how did that go? Were you surprised by anything (did you find yourself way more focused than you realized, more distracted that you thought you'd be, estimating times accurately or totally off, etc)?
 
-It went ok. I was surprised by how focused I was at times and how the small breaks can help break the hours of staring at the screens and trying to figure out code. At points I was more distracted at certain times when I didn't follow the technique or if I didn't have a tab up with a timer to follow the technique.
+It went ok. I was surprised by how focused I was at times and how the small breaks can help break the hours of staring at the screens and trying to figure out code. At points I was more distracted at certain times when I didn't follow the technique or if I didn't have a tab up with a timer to follow the technique!
 
 
 1. In your own words, what is a Class?
@@ -56,4 +56,4 @@ Make a variable and then use method.object_name to create an instance of a class
 An example of this would be dog1= Luka.new
 
 1. What questions do you still have about classes in Ruby?
-I have some questions but I think I just need to revisit the given websites and rewrite my notes so its much more coherent. Right now im a bit scrambled with everything. 
+I have some questions but I think I just need to revisit the given websites and rewrite my notes so its much more coherent. Right now im a bit scrambled with everything.

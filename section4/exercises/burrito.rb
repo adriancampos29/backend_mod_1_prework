@@ -36,4 +36,4 @@ p dinner.toppings
 
 puts dinner.add_topping('veggies')
 puts dinner.remove_topping('cheese')
-puts dinner.change_protein('brisket')
+puts dinner.change_protein('carne asada')
